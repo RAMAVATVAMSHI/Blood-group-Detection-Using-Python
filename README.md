@@ -30,7 +30,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/yourusername/Blood-group-Detection-using-python.git
+git clone https://github.com/RAMAVATVAMSHI/Blood-group-Detection-using-python.git
 Navigate to the project directory:
 bash
 Run
